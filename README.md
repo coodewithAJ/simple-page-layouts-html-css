@@ -1,0 +1,1 @@
+# This is a simple page layouts made up with html css during my training that is provided by my company. you can use these layouts just for your practice or for your project purpose if you want to contribute on it i am very happy 
